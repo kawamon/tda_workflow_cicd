@@ -18,4 +18,4 @@ _export:
     SNIPCART_API_PASS: ${secret:snipcart.passwd}
     TD_API_SERVER: "https://api.treasuredata.com"
 
-## これは継続的デリバリーのテストです ##
+## これは継続的デリバリーのテストです 
